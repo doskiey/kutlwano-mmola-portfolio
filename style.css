@@ -84,7 +84,7 @@ nav ul li a:hover::after{
   right: 10%;
   /*top: 50%;*/
   transform: translateY(-50%);
-  text-align: right;
+  text-align: center;
   color: white;
 }
 
@@ -446,6 +446,7 @@ nav .fa-solid{
       font-size: 14px;
   }
 }
+
 
 
 
